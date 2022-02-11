@@ -1,1 +1,13 @@
-
+<?xml version ="1.0"?>
+ <bug_report>
+   <summary>At the bottom of the Contacts page, a Google map is displayed not completely</summary>
+   <project>site example.com</project>
+   <version>1.0</version>
+   <priority>medium</priority>
+   <severity>major</severity> 
+   <status>new</status>
+   <author>Safina_Dinara</author>
+   <assigned_to>test coordinator</assigned_to>
+   <result>Google map is not fully displayed on the site</result>
+   <expected_result>Google map is fully displayed on the site</expected_result>
+ </bug_report>
